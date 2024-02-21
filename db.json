@@ -1,0 +1,31 @@
+{
+  "Phones": [
+    {
+      "id": "a98e",
+      "Name": "Samsung S24 ultra",
+      "Sotuvchi": "Radius mobile",
+      "Rangi": "Black",
+      "Ram": 16,
+      "Xotira": 512,
+      "Narx": 18999000
+    },
+    {
+      "id": "fa4b",
+      "Name": "Iphone 15 pro max",
+      "Sotuvchi": "MacBro",
+      "Rangi": "Purple",
+      "Ram": 8,
+      "Xotira": 128,
+      "Narx": 14499000
+    },
+    {
+      "id": "f3a8",
+      "Name": "sdfghjk",
+      "Sotuvchi": "rtey",
+      "Rangi": "56yuth",
+      "Ram": 436,
+      "Xotira": 456,
+      "Narx": 45
+    }
+  ]
+}
